@@ -1,0 +1,192 @@
+﻿李哥的Ai成长笔记
+🚀 我的AI进化日记
+📝 每日实战复盘
+(请随着课程进度，每天复制下方的模板进行填写)
+📅教学卡片1：[任务：
+学会科学上网，并找到心仪的机场和节点，了解机场和节点本质是什么？
+注册你的google账号，并登录youtube.com｜github.com｜openai.com。
+了解visa卡是什么，并注册你的visa卡，国内的银行都有相关业务，需要申请。
+尝试让自己的手机（苹果系统/windows均可）也能够科学上网。
+进阶任务：搞定gemini免费一年的会员认证]
+✅ 你做了哪些工作？：
+[1 ] 手机、电脑均已科学上网
+[2 ]已有GOOGLE账号 登陆过youtube.com｜github.com｜openai.com。
+[3 ] 有卡
+[4 ] 安卓可上网
+[5 ]已搞定gemini一年免费会员
+📸 成果展示 (Show Time)：(请直接在此处粘贴你的 运行截图 / 对话截图 / 作品链接，这是你成长的证据！)
+[ 请粘贴图片或链接 ]
+💡 思考与复盘 (核心)：
+复盘
+机场——巨大的虚拟房子——很多人住在一起的——共用卫生设施，吃饭的地方....——机场不稳定
+解决办法——搭建专属的节点通道
+国外相关的——跨境（tiktok直播）——基础设施服务
+思考产业的上下游
+购买成品号（没办法用gemini）——稳定是第一要素，未来会用到大量的google生态
+visa卡无法办理的话——找虚拟中转平台（咸鱼代办）
+虚拟接受地址：https://smailpro.com/
+手机科学上网以后——下载chatgpt/grok/gemini/sora/x/youtube（国外版的b站）/tiktok（国外版本的抖音）
+不同国外ai的使用体验感
+gpt：中文非常好——免费使用（建议充一个月）
+gemini：降智
+grok：比较有自己的风格
+📅教学卡片2：[基础任务
+注册你的github账号｜X账号｜youtube账号
+三个平台用统一的google账号，并关注/订阅3个Youtube上你喜欢的国外AI博主
+github.com｜X.com｜Youtube.com
+了解市面主流的AI工具（网页端+APP端）
+举个例子：豆包——多模态ai工具｜Lovart——集成类设计平台....【记录在自己的笔记内】
+你可以参考的网站：https://ai-bot.cn/【对于所有你感兴趣的领域都进行注册，并进行标注】
+你可以养成的习惯：使用客户端豆包，每次使用的时候都可以打开它的共性屏幕语音通话功能，看看你在学习/工作的时候，豆包是否能成为你很好的学习助手？
+了解提示词工程，在和大模型对话的过程中，到底如何写提示词，才能让大模型的回复更有效果？是否有什么统一的原则？
+你可以做的尝试：询问不同的模型相同的问题，看看他们的回复风格有什么区别
+关于提问的类型：与时间节点有关的｜理科类技术难题｜人生哲学问题...
+附加任务：尝试找到一个可以有大量提示词案例的网站，看看里面的提示词有什么共性？能否对你目前的行业/工       作有一定的帮助
+了解markdown格式和json格式分别是什么？为什么AI每次回复你的文字复制到笔记软件中格式一直会出现巨大的问题？利用好markdown和json格式，你能够解决什么问题？
+你可以做的尝试：随便找一篇长文章（或你之前的笔记），发送给 AI，并附带指令：
+“请帮我总结这篇文章，必须使用 Markdown 格式。要求：使用二级标题分段，重要观点加粗，如果有数据请使用表格展示。”
+进阶任务（小白慎入）
+安装Notion，了解Notion的基本功能，学会使用Notion成为生活中常见的笔记软件
+挑战用markdown格式生成流程图，并且将ai生成的结果放在即时设计/notion
+这一块可以更难一些：尝试用ai解读一篇你完全不懂的ai学术论文，并使用mermaid语法的格式输出代码，然后去对应的网站实时渲染
+将你惯用和ai聊天的提示词改成json格式，或者类代码结构——为后续理解N8N做伏笔
+举个例子
+{
+"Role": "小红书爆款写手",
+"Skills": ["心理学", "痛点挖掘", "emoji排版"],
+"Task": "写一篇关于AI焦虑的笔记",
+"Constraints": {
+"Tone": "毒舌但真诚"
+}
+✅ 你做了哪些工作？：
+[1 ] github.com｜X.com｜Youtube.com 账号都注册了
+[2 ] 经常使用电脑版豆包与手机版，trea注册了不太会用 无编程基础
+[3 ] 提示词框架大概就是：角色+任务+约束+呈现方式  谷歌提示词库：https://docs.cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery
+[4]markdown 是轻量级的标记语言 json是轻量级的数据交换模式（待尝试使用），markdown 使用后文字信息更明了有条理，便于后续知识库RAG的检索
+进阶任务
+[1 ] 安装Notion了，仅仅会使用基本的功能 对于/输入快捷的方式待研究、 数据库待研究、 多平台api调用待研究
+飞书做笔记有点卡 这个软件内流畅一些 用GPT做了个模板
+[2 ] 该论文用GPT给的mermaid语法的格式
+2505.pdf论文原件
+GPT生成的代码
+渲染网站改后的代码
+📸 成果展示 (Show Time)：(请直接在此处粘贴你的 运行截图 / 对话截图 / 作品链接，这是你成长的证据！)
+[ 「Mermaid 官方在线编辑器」（https://mermaid-js.github.io/mermaid-live-editor/）不过在网站渲染图片时候，发现错误代码由网页AI自动更改代码后成图
+💡 思考与复盘 (核心)：
+复盘
+任务3
+brtr原则——background+role+task+requirement+example｜环境+角色+任务+需求+例子
+网站推荐：prompts.chat｜AiShort（中文提示词模版库）｜PromptHero（prompthero.com）
+任务4
+markdown&json——通用的语言体系｜困扰：复制到word里面复制不进去的
+json：通信协议——参考智能体
+进阶任务
+notion模版购买
+Mermaid语法
+graph TD    subgraph Transformer_Architecture        direction TB        %% Inputs        Input[输入序列 Inputs] --> InputEmb[Input Embedding]        InputEmb --> PosEnc1[Positional Encoding]        Output[目标序列 Outputs] --> OutputEmb[Output Embedding]        OutputEmb --> PosEnc2[Positional Encoding]        %% Encoder Block        subgraph Encoder_Layer [Encoder Layer xN]            direction TB            PosEnc1 --> MHA1[Multi-Head Attention]            MHA1 --> AddNorm1[Add & Norm]            AddNorm1 --> FFN1[Feed Forward]            FFN1 --> AddNorm2[Add & Norm]        end        %% Decoder Block        subgraph Decoder_Layer [Decoder Layer xN]            direction TB            PosEnc2 --> MaskedMHA[Masked Multi-Head Attention]            MaskedMHA --> AddNorm3[Add & Norm]            AddNorm3 --> MHA2[Multi-Head Attention]            AddNorm2 -.-> MHA2            MHA2 --> AddNorm4[Add & Norm]            AddNorm4 --> FFN2[Feed Forward]            FFN2 --> AddNorm5[Add & Norm]        end        %% Output Generation        AddNorm5 --> Linear[Linear]        Linear --> Softmax[Softmax]        Softmax --> FinalOutput[Output Probabilities]    end    style Transformer_Architecture fill:#f9f9f9,stroke:#333,stroke-width:2px    style Encoder_Layer fill:#e1f5fe,stroke:#01579b    style Decoder_Layer fill:#fff3e0,stroke:#e65100
+Xmind
+📅教学卡片3：[任务周期：1.3-1.6/1.7
+基础任务
+仔细思考你生活中需要用到图片的场景（朋友圈图片/视频封面/领导的图片制作要求/自己喜欢的照片....）
+搜寻各类ai生图大模型｜ai生视频大模型｜ai音频模型｜集成类的ai模型并尝试
+这里我给出一些推荐
+许多工具会员可以在咸鱼低价购买到，这里只做推荐用途
+我给大家争取到了海艺AI的一月会员，很多模型里面都可以选择
+红笔标注为强烈建议尝试一下的
+生图模型首选：nanobanana，登陆google账号，搜索gemini.com，里面可以选择生成图片
+生视频模型首选：veo 3.1/sora/midjourney/runway，官网价格高昂，审美意识，文本理解顶级
+Sora手机版每日有免费生成额度，强烈推荐
+生视频视频次选：即梦/可灵/海螺/万相/Vidu，国产工具一般都会送大量额度，可以试试
+生音频首选：minimax/剪映
+ai创作集成类平台（把各类工具集成到一起，可以直接创作）：Lovart/即梦/tapnow/海艺AI/canva
+生成一张你脑海中喜欢风格的照片（或者互联网你喜欢风格的照片，并生成一个和它们风格相似的照片），并放置在自己的飞书笔记本中
+经过自己的尝试以后，总结，你觉得文生图方面，提示词有什么技巧？总结在自己的笔记本中
+进阶难题：
+每次生图中，如何保持不同画面的人物一致性？
+尝试生成三个海报，不同标题，但是可以保持相同的风格
+让同一个海报，适配不同的比例，比如3:4，1:1，16:9
+尝试克隆你自己的音色吧！
+生成一个苹果产品的宣传动画，利用首尾帧技术实现，并放置在剪辑软件中进行剪辑
+参考视频：4.33 复制打开抖音，看看【赵逍遥Xavier的作品】震惊，AI视频已经发展到这个程度了？ # 科技 #... https://v.douyin.com/3BI_e2wrhEI/ S@Y.zt jcA:/ 01/28 推荐软件：海艺ai（负责批量生图，生视频）｜剪映（视频剪辑）
+进阶任务
+给ai上传自己的照片，生成自己的q版形象
+利用ai工具，生成一个合适的脚本风景，及对应的提示词
+根据q版形象和提示词，生成一部属于你的ai电影
+了解comfyui是什么
+尝试在你的电脑本地部署comfyui]
+✅ 你做了哪些工作？：
+[1 ] 原图
+左侧GEMINI  / 右侧GPT
+自然语言生成的图片，由于对摄影描述不是很清晰，GPT对模糊指令更强
+[ ] 实操已完成
+[ ] 遇到困难已解决
+📸 成果展示 (Show Time)：(请直接在此处粘贴你的 运行截图 / 对话截图 / 作品链接，这是你成长的证据！)
+[ 请粘贴图片或链接 ]
+💡 思考与复盘 (核心)：
+我卡在哪一步了？ (如：环境配置报错、Prompt写不好) [ 你的回答 ]
+你是如何解决你的问题的？
+这次教学卡片你的收获是什么？
+📅教学卡片4：
+基础任务
+本次任务难度值较高，1.9会安排一个示范，供大家学习参考，大家不要放弃希望，慢慢做
+有任何问题，可以直接问gemini，它一定是你最好的代码老师
+建议：1.8-1.10负责github+环境配置｜1.11-1.15负责开发网站｜1.16负责部署到网页
+本次问题一定会很多，所有的问题全部放在群里，不要私信助教
+学会使用github
+利用google登陆github｜了解github是什么？｜能做什么？【可以记录在笔记中】——github.com
+启动你的浏览器汉化插件，观察一下github的主要构成部分
+了解左边的图片是什么，右边图片的右上角就是搜索栏
+github一般的搜索逻辑：/ +awesome+你想查询的东西（一般有奇效）
+你或许可以用到的一些b站博主链接，他们讲的很好，同时有很多公众号博主和自媒体博主是讲GitHub一些有趣的项目的，大家都可以时刻关注
+【GitHub新手指南：这个星球最强资源库，开源免费！】https://www.bilibili.com/video/BV14qh8ztEhv?vd_source=03dc2e0701cbc753be41eafda07f3a2a
+【GitHub百宝箱：一键获取你想要的一切 ，github探索，github搜索教程!William说】https://www.bilibili.com/video/BV1gd6NYGEEH?vd_source=03dc2e0701cbc753be41eafda07f3a2a
+【【25新版】零基础小白自学Git_Github教程，绝对B站NO.1，全功能精讲，让你少走90%弯路】https://www.bilibili.com/video/BV1Vh1PBmEEk?vd_source=03dc2e0701cbc753be41eafda07f3a2a
+最后一个博主很详细，闲暇时间多的可以看一下
+寻找一个项目（任意项目都可以）然后下载download zip，看看能不能运行成功
+下载的时候一定要看作者的使用说明，这是关键中的关键
+环境配置——vscode
+下载vscode——code.visualstudio.com
+左边的扩展界面可以下载插件，搜索chinese（simpilfied）安装好后重启软件——接下来所有页面会变成中文
+下载Python
+以下这个视频讲得很好，强烈推荐
+【3小时超快速入门Python | 动画教学【2025新版】【自学Python教程】【零基础Python】【计算机二级Python】【Python期末速成】】https://www.bilibili.com/video/BV1Jgf6YvE8e?vd_source=03dc2e0701cbc753be41eafda07f3a2a
+vscode中搜索python，下载相关环境
+尝试在桌面新建文件夹，新建文本文件，署名为ab.py，并打开,输入以下代码
+Plain Textprint("hello world")
+出现这个即表示成功，恭喜你！成功配置python相关环境
+环境配置——配备你的本地ai助手
+在扩展中搜索插件（已经有gemini pro会员的可以配置gemini，gpt会员的可以配置codex）
+你可能会遇到的问题——节点问题
+gemini对节点的要求十分之高，实在不行可以先尝试用codex，咸鱼有相关链接，很便宜，而且codex关联的是gpt会员，gpt有了会员，codex自然可以开通
+可以优先尝试gemini，祝各位好运
+配置好之后，你会在左边看到这样的小图标，点开以后是对话框，ai可以自动在你的电脑本地运行代码了
+可以尝试随便做一点你构思已久的想法，试试看吧！
+项目简介
+搭建一个我可以访问的网站，这个网站包含你的个人名片+若干个页面
+页面1：你的个人名片
+页面2:你在每一次的教学卡片中学到了什么，比如教学卡片1的任务是xxxx，你自己学到了什么xxxx，你的复盘是什么xxxxx，类似于这样子的，然后放上你的成功图片（包括教学卡片3的图片和视频哦）
+页面4：设计一个ai问答的界面，这个ai已经事先存储了你的知识库，然后可以根据你所学到的进行回答
+代码本地实现
+你需要先根据项目的简介分析整个项目如何搭建起来，先分析逻辑（你可以和ai沟通）
+直接交给你的vscode的ai助手去实现，让他们先生成可以本地预览的文件，然后不断去调整
+Github仓库搭建
+1. 页面左上角，然后一切不懂的你都可以问ai
+部署到网页端
+登陆vercel.com（利用你github的账号和搭建好的仓库）
+打开豆包桌面端（共享屏幕语音通话），让豆包指导
+成功以后你就可以在vercel看到一个可以跑起来的网站了
+申请一个国内可用的域名
+这个直播课会重点讲解
+📸 成果展示 (Show Time)：(请直接在此处粘贴你的 运行截图 / 对话截图 / 作品链接，这是你成长的证据！)
+1.GITHUB
+2.2-3 vscode
+配置了vscode，已部署AI助手
+3.项目网页
+还没开始HTML还是比较简单
+4.代码本地实现
+AI写了贪吃蛇游戏 并能本地运行，HTML的比较好弄，想生成一个APK手机软件，涉及前后端运行都没跑起来
+5.Github仓库搭建
+以前有放入过一些 ，后续网页弄好再重新放
+6.部署到网页端
+还没开始
+7.域名已经注册
