@@ -19,7 +19,6 @@
         <a href="index.html">名片</a>
         <a class="active" href="insights.html">AI Insights</a>
         <a href="toolbox.html">Toolbox</a>
-        <a href="oracle.html">Oracle</a>
       </nav>
     </header>
 
@@ -58,5 +57,13 @@
       <a class="notes-link" href="https://wcniha3vbsv9.feishu.cn/wiki/POwVw9Qati7ZNkkQJm3cEQfonhd" target="_blank" rel="noreferrer">打开飞书笔记</a>
     </section>
   </div>
+  <script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.2.0-beta.19/libs/cn/index.js"></script>
+  <script src="coze-config.js"></script>
+  <script>
+    new CozeWebSDK.WebChatClient(window.COZE_CONFIG);
+    if (window.applyCozeLauncherIcon) {
+      window.applyCozeLauncherIcon();
+    }
+  </script>
 </body>
 </html>
