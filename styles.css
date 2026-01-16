@@ -508,6 +508,45 @@ h1 {
   background: rgba(11, 179, 168, 0.12);
 }
 
+.insights-poster {
+  margin-top: 28px;
+  padding: 22px 24px;
+  border-radius: 22px;
+  border: 1px solid var(--line);
+  background: var(--glass);
+  backdrop-filter: var(--blur);
+  box-shadow: var(--shadow);
+  display: grid;
+  gap: 18px;
+}
+
+.insights-poster-text h3 {
+  margin: 0 0 6px;
+  font-size: 18px;
+  color: var(--accent);
+}
+
+.insights-poster-text p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.insights-poster-media {
+  margin: 0;
+  border-radius: 18px;
+  overflow: hidden;
+  border: 1px solid rgba(10, 12, 16, 0.08);
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 18px 40px rgba(9, 15, 28, 0.15);
+}
+
+.insights-poster-media img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .coze-chat-app,
 .coze-ast-btn {
   top: 140px !important;
